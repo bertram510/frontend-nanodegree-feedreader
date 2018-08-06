@@ -1,9 +1,9 @@
 ## Table of Contents
 
-* [Project Overview](#Project Overview)
+* [Project Overview](#Project-Overview)
 * [Dependencies](#Dependencies)
 * [Instructions](#Instructions)
-* [Completed Set of Tests](#Completed Set of Tests)
+* [Completed Set of Tests](#Completed-Set-of-Tests)
 
 ## Project Overview
 
