@@ -15,13 +15,13 @@ In this project you are given a web-based application that reads RSS feeds. A co
 
 ## Instructions
 
-* After cloning or downloading the whole project folder, open `index.html` in the root folder. You will find the RSS Feed application running on the page as well as the Jasmine testing result displayed at the bottom of the page.
-* All the current set of tests should pass(failure numeber should be 0).
+* After cloning or downloading the whole project folder, open `index.html` in the root folder. You will find the RSS Feed application running on the page as well as the Jasmine testing results displayed at the bottom of the page.
+* All the current set of tests should pass(failure number should be 0).
 * All the test code is located in the `./jasmine/spec/feedreader.js`.
 
 ## Completed Set of Tests
 
-1. A test that makes sure that allFeeds variable has been defined and that it is not empty.
+1. A test that makes sure that `allFeeds` variable has been defined and that it is not empty.
 2. A test that loops through each feed in the `allFeeds` object and ensures it has a URL defined and that the URL is not empty.
 3. A test that loops through each feed in the `allFeeds` object and ensures it has a name defined and that the name is not empty.
 4. A test that ensures the menu element is hidden by default. 
