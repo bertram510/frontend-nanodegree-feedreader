@@ -100,7 +100,6 @@ $(function() {
         });
 
         it('has at least one .entry element in the .feed container', function(done) {
-            //checks to see if data is received
             expect($('.feed .entry').length).toBeGreaterThan(0);
             done();
         });
